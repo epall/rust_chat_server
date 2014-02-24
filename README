@@ -1,0 +1,5 @@
+My very first Rust program!
+
+a super-basic chat server that passes messages between multiple TCP clients
+
+requires Rust 0.10-pre (master)
